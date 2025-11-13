@@ -1,0 +1,486 @@
+{
+    "fork": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6097500324249268,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8043,
+                "precision": 0.8081831071500911,
+                "recall": 0.798,
+                "specificity": 0.8106,
+                "f1_score": 0.8030592734225621,
+                "confusion_matrix": {
+                    "tn": "4053",
+                    "fp": "947",
+                    "fn": "1010",
+                    "tp": "3990"
+                }
+            }
+        }
+    },
+    "pin": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6375000476837158,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8027,
+                "precision": 0.8042211055276381,
+                "recall": 0.8002,
+                "specificity": 0.8052,
+                "f1_score": 0.8022055137844611,
+                "confusion_matrix": {
+                    "tn": "4026",
+                    "fp": "974",
+                    "fn": "999",
+                    "tp": "4001"
+                }
+            }
+        }
+    },
+    "skewer": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.7342499494552612,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8566,
+                "precision": 0.8587525150905433,
+                "recall": 0.8536,
+                "specificity": 0.8596,
+                "f1_score": 0.8561685055165497,
+                "confusion_matrix": {
+                    "tn": "4298",
+                    "fp": "702",
+                    "fn": "732",
+                    "tp": "4268"
+                }
+            }
+        }
+    },
+    "discoveredAttack": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6937500238418579,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8473,
+                "precision": 0.864887581424669,
+                "recall": 0.8232,
+                "specificity": 0.8714,
+                "f1_score": 0.8435290501075929,
+                "confusion_matrix": {
+                    "tn": "4357",
+                    "fp": "643",
+                    "fn": "884",
+                    "tp": "4116"
+                }
+            }
+        }
+    },
+    "sacrifice": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6210000514984131,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8035,
+                "precision": 0.8046576992571772,
+                "recall": 0.8016,
+                "specificity": 0.8054,
+                "f1_score": 0.8031259392846408,
+                "confusion_matrix": {
+                    "tn": "4027",
+                    "fp": "973",
+                    "fn": "992",
+                    "tp": "4008"
+                }
+            }
+        }
+    },
+    "hangingPiece": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.8860000371932983,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9439,
+                "precision": 0.9188526137006983,
+                "recall": 0.9738,
+                "specificity": 0.914,
+                "f1_score": 0.9455286921060297,
+                "confusion_matrix": {
+                    "tn": "4570",
+                    "fp": "430",
+                    "fn": "131",
+                    "tp": "4869"
+                }
+            }
+        }
+    },
+    "kingsideAttack": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.8214999437332153,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9076,
+                "precision": 0.8698729582577133,
+                "recall": 0.9586,
+                "specificity": 0.8566,
+                "f1_score": 0.9120837297811608,
+                "confusion_matrix": {
+                    "tn": "4283",
+                    "fp": "717",
+                    "fn": "207",
+                    "tp": "4793"
+                }
+            }
+        }
+    },
+    "exposedKing": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.846500039100647,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9166,
+                "precision": 0.8833271991166728,
+                "recall": 0.96,
+                "specificity": 0.8732,
+                "f1_score": 0.9200690051753881,
+                "confusion_matrix": {
+                    "tn": "4366",
+                    "fp": "634",
+                    "fn": "200",
+                    "tp": "4800"
+                }
+            }
+        }
+    },
+    "attraction": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6477500200271606,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8185,
+                "precision": 0.8217821782178217,
+                "recall": 0.8134,
+                "specificity": 0.8236,
+                "f1_score": 0.8175696049854256,
+                "confusion_matrix": {
+                    "tn": "4118",
+                    "fp": "882",
+                    "fn": "933",
+                    "tp": "4067"
+                }
+            }
+        }
+    },
+    "deflection": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.5537500381469727,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.773,
+                "precision": 0.766497461928934,
+                "recall": 0.7852,
+                "specificity": 0.7608,
+                "f1_score": 0.7757360205492986,
+                "confusion_matrix": {
+                    "tn": "3804",
+                    "fp": "1196",
+                    "fn": "1074",
+                    "tp": "3926"
+                }
+            }
+        }
+    },
+    "interference": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6309319734573364,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.813264722698685,
+                "precision": 0.7956326987681971,
+                "recall": 0.7588785046728972,
+                "specificity": 0.854,
+                "f1_score": 0.7768211015443488,
+                "confusion_matrix": {
+                    "tn": "4270",
+                    "fp": "730",
+                    "fn": "903",
+                    "tp": "2842"
+                }
+            }
+        }
+    },
+    "clearance": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.5827499628067017,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.7869,
+                "precision": 0.7854726368159204,
+                "recall": 0.7894,
+                "specificity": 0.7844,
+                "f1_score": 0.787431421446384,
+                "confusion_matrix": {
+                    "tn": "3922",
+                    "fp": "1078",
+                    "fn": "1053",
+                    "tp": "3947"
+                }
+            }
+        }
+    },
+    "intermezzo": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6522500514984131,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.828,
+                "precision": 0.8264331210191083,
+                "recall": 0.8304,
+                "specificity": 0.8256,
+                "f1_score": 0.8284118116520351,
+                "confusion_matrix": {
+                    "tn": "4128",
+                    "fp": "872",
+                    "fn": "848",
+                    "tp": "4152"
+                }
+            }
+        }
+    },
+    "advancedPawn": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.8487499952316284,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9188,
+                "precision": 0.9110718492343934,
+                "recall": 0.9282,
+                "specificity": 0.9094,
+                "f1_score": 0.9195561719833565,
+                "confusion_matrix": {
+                    "tn": "4547",
+                    "fp": "453",
+                    "fn": "359",
+                    "tp": "4641"
+                }
+            }
+        }
+    },
+    "attackingF2F7": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.9529999494552612,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9758,
+                "precision": 0.981384055038446,
+                "recall": 0.97,
+                "specificity": 0.9816,
+                "f1_score": 0.9756588211627439,
+                "confusion_matrix": {
+                    "tn": "4908",
+                    "fp": "92",
+                    "fn": "150",
+                    "tp": "4850"
+                }
+            }
+        }
+    },
+    "capturingDefender": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.7120000123977661,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8473,
+                "precision": 0.861544867790964,
+                "recall": 0.8276,
+                "specificity": 0.867,
+                "f1_score": 0.8442313577476283,
+                "confusion_matrix": {
+                    "tn": "4335",
+                    "fp": "665",
+                    "fn": "862",
+                    "tp": "4138"
+                }
+            }
+        }
+    },
+    "doubleCheck": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.8414433002471924,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9158451062099807,
+                "precision": 0.9289839572192513,
+                "recall": 0.8974994833643315,
+                "specificity": 0.9336,
+                "f1_score": 0.9129703594702544,
+                "confusion_matrix": {
+                    "tn": "4668",
+                    "fp": "332",
+                    "fn": "496",
+                    "tp": "4343"
+                }
+            }
+        }
+    },
+    "queensideAttack": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.9515000581741333,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.9763,
+                "precision": 0.9601932367149758,
+                "recall": 0.9938,
+                "specificity": 0.9588,
+                "f1_score": 0.9767076167076167,
+                "confusion_matrix": {
+                    "tn": "4794",
+                    "fp": "206",
+                    "fn": "31",
+                    "tp": "4969"
+                }
+            }
+        }
+    },
+    "trappedPiece": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.8032499551773071,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8979,
+                "precision": 0.896551724137931,
+                "recall": 0.8996,
+                "specificity": 0.8962,
+                "f1_score": 0.898073275431766,
+                "confusion_matrix": {
+                    "tn": "4481",
+                    "fp": "519",
+                    "fn": "502",
+                    "tp": "4498"
+                }
+            }
+        }
+    },
+    "defensiveMove": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.5672500133514404,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.7793,
+                "precision": 0.7836684948202316,
+                "recall": 0.7716,
+                "specificity": 0.787,
+                "f1_score": 0.7775874231583191,
+                "confusion_matrix": {
+                    "tn": "3935",
+                    "fp": "1065",
+                    "fn": "1142",
+                    "tp": "3858"
+                }
+            }
+        }
+    },
+    "quietMove": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.6015000343322754,
+                "best_reg_param": 1e-05,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.7969,
+                "precision": 0.7905656684282638,
+                "recall": 0.8078,
+                "specificity": 0.786,
+                "f1_score": 0.7990899198733802,
+                "confusion_matrix": {
+                    "tn": "3930",
+                    "fp": "1070",
+                    "fn": "961",
+                    "tp": "4039"
+                }
+            }
+        }
+    },
+    "mate": {
+        "10": {
+            "validation_results": {
+                "best_avg_val_accuracy": 0.7955000400543213,
+                "best_reg_param": 0.0,
+                "reg_param_name": "L2 weight_decay"
+            },
+            "test_metrics": {
+                "accuracy": 0.8952,
+                "precision": 0.8792706333973128,
+                "recall": 0.9162,
+                "specificity": 0.8742,
+                "f1_score": 0.8973555337904016,
+                "confusion_matrix": {
+                    "tn": "4371",
+                    "fp": "629",
+                    "fn": "419",
+                    "tp": "4581"
+                }
+            }
+        }
+    }
+}

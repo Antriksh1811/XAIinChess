@@ -1,0 +1,530 @@
+{
+  "000rO": {
+    "factual_accuracy": 1.8980080540455821,
+    "concept_grounding": 1.1922366073791455,
+    "completeness": 2.6452509104845583,
+    "relevance": 2.0098455715882837,
+    "clarity": 4.622111403274694,
+    "fluency": 4.997816278660202
+  },
+  "0CuSD": {
+    "factual_accuracy": 2.792234099776735,
+    "concept_grounding": 1.547093651746813,
+    "completeness": 4.253422686363646,
+    "relevance": 2.6975905853183635,
+    "clarity": 4.999891093169182,
+    "fluency": 4.999925147007095
+  },
+  "002GQ": {
+    "factual_accuracy": 1.9479413445280718,
+    "concept_grounding": 1.9747582760077358,
+    "completeness": 2.856901457848235,
+    "relevance": 2.3050231096107545,
+    "clarity": 4.984087880877208,
+    "fluency": 4.999088925234027
+  },
+  "0018S": {
+    "factual_accuracy": 3.1326438142501063,
+    "concept_grounding": 1.7877479217708283,
+    "completeness": 2.7994925844765937,
+    "relevance": 3.496623757766792,
+    "clarity": 4.999569432999465,
+    "fluency": 4.999447221417424
+  },
+  "003S3": {
+    "factual_accuracy": 2.0100644987392187,
+    "concept_grounding": 1.3020349948157748,
+    "completeness": 3.663313319141495,
+    "relevance": 2.1173642437767564,
+    "clarity": 4.998498438573187,
+    "fluency": 4.999569437592248
+  },
+  "003nQ": {
+    "factual_accuracy": 1.2753085446082524,
+    "concept_grounding": 1.4338971542110148,
+    "completeness": 1.4184980862100245,
+    "relevance": 1.0913255898300842,
+    "clarity": 4.994775857273257,
+    "fluency": 4.999769477024137
+  },
+  "001m3": {
+    "factual_accuracy": 1.518970678095722,
+    "concept_grounding": 1.7911360835382668,
+    "completeness": 3.8168481757578006,
+    "relevance": 1.616833017583317,
+    "clarity": 4.995928188347081,
+    "fluency": 4.999769483437058
+  },
+  "001xl": {
+    "factual_accuracy": 2.6862306658238264,
+    "concept_grounding": 1.8530082784536208,
+    "completeness": 4.886551255513925,
+    "relevance": 3.7154532223231866,
+    "clarity": 4.999941708091093,
+    "fluency": 4.999841562572374
+  },
+  "004mT": {
+    "factual_accuracy": 2.0165165247345826,
+    "concept_grounding": 1.9095890966506945,
+    "completeness": 3.628786569023419,
+    "relevance": 2.401171491492131,
+    "clarity": 4.99987659267709,
+    "fluency": 4.9998911002237145
+  },
+  "002Cw": {
+    "factual_accuracy": 2.5236537518197517,
+    "concept_grounding": 1.611828668623859,
+    "completeness": 3.955529425963374,
+    "relevance": 4.142493752548949,
+    "clarity": 4.999959934966628,
+    "fluency": 4.999925150592774
+  },
+  "002KJ": {
+    "factual_accuracy": 2.29507973078331,
+    "concept_grounding": 1.1302145549961464,
+    "completeness": 3.228329546743819,
+    "relevance": 2.8773134458759544,
+    "clarity": 4.999373621506648,
+    "fluency": 4.9996646431526965
+  },
+  "003wQ": {
+    "factual_accuracy": 3.863964586355064,
+    "concept_grounding": 1.1871429305787107,
+    "completeness": 3.295074329485061,
+    "relevance": 4.4718450311769615,
+    "clarity": 4.999925152464704,
+    "fluency": 4.998830468619285
+  },
+  "001xO": {
+    "factual_accuracy": 2.060972592953845,
+    "concept_grounding": 2.465627097636253,
+    "completeness": 2.5931800048098306,
+    "relevance": 2.9591974624533646,
+    "clarity": 4.999796571601105,
+    "fluency": 4.999088937408054
+  },
+  "008LT": {
+    "factual_accuracy": 2.60388302268079,
+    "concept_grounding": 2.6762647310696868,
+    "completeness": 3.2454287171151788,
+    "relevance": 3.519010873620487,
+    "clarity": 4.999512132904318,
+    "fluency": 4.99944720866449
+  },
+  "00Cwz": {
+    "factual_accuracy": 2.9240249375380376,
+    "concept_grounding": 3.4291881009932803,
+    "completeness": 4.9705806832518045,
+    "relevance": 3.600938173341669,
+    "clarity": 4.999446666995256,
+    "fluency": 4.999373651483777
+  },
+  "000lC": {
+    "factual_accuracy": 2.713326435010877,
+    "concept_grounding": 2.3420863147947566,
+    "completeness": 3.283939665190138,
+    "relevance": 3.4170325895076865,
+    "clarity": 4.999704028392841,
+    "fluency": 4.99989110305647
+  },
+  "001u3": {
+    "factual_accuracy": 3.3630617711783595,
+    "concept_grounding": 1.5635295639039422,
+    "completeness": 3.2883692666546214,
+    "relevance": 3.587029316955149,
+    "clarity": 4.999933945887645,
+    "fluency": 4.999985261023967
+  },
+  "002bK": {
+    "factual_accuracy": 2.9158733337033778,
+    "concept_grounding": 1.8704701566945012,
+    "completeness": 4.2047680425663065,
+    "relevance": 3.9987912012664752,
+    "clarity": 4.997198818409729,
+    "fluency": 4.999915188952306
+  },
+  "002Ua": {
+    "factual_accuracy": 1.2999037571739198,
+    "concept_grounding": 2.840501562293943,
+    "completeness": 2.6414532454657413,
+    "relevance": 1.6767982217195005,
+    "clarity": 4.998672503958943,
+    "fluency": 4.9996645997511004
+  },
+  "002p5": {
+    "factual_accuracy": 3.2763085599186925,
+    "concept_grounding": 4.802562576919526,
+    "completeness": 3.6996276347731603,
+    "relevance": 4.108327976402614,
+    "clarity": 4.999933946970693,
+    "fluency": 4.999991060118718
+  },
+  "0072T": {
+    "factual_accuracy": 1.7983686003650896,
+    "concept_grounding": 2.2675557507729764,
+    "completeness": 2.8925044966716214,
+    "relevance": 1.8161995445602532,
+    "clarity": 4.99970402430802,
+    "fluency": 4.997198978947972
+  },
+  "1zq6Y": {
+    "factual_accuracy": 2.5758509090003723,
+    "concept_grounding": 4.995673020009561,
+    "completeness": 4.911263126793308,
+    "relevance": 3.0,
+    "clarity": 4.9998415493683055,
+    "fluency": 4.999569419175063
+  },
+  "21vlh": {
+    "factual_accuracy": 2.921658443043498,
+    "concept_grounding": 2.65171616333269,
+    "completeness": 4.6488097793727965,
+    "relevance": 4.189509526749139,
+    "clarity": 4.999738791205651,
+    "fluency": 4.999891100556572
+  },
+  "2jChu": {
+    "factual_accuracy": 2.017519505645406,
+    "concept_grounding": 2.088795024843485,
+    "completeness": 2.837379072295828,
+    "relevance": 2.141920166407079,
+    "clarity": 4.217182654825949,
+    "fluency": 4.998298857956104
+  },
+  "001w5": {
+    "factual_accuracy": 3.916114222262726,
+    "concept_grounding": 3.625637227343555,
+    "completeness": 4.999234426868354,
+    "relevance": 4.962898958111406,
+    "clarity": 4.99998852031123,
+    "fluency": 4.99993394783469
+  },
+  "00WTN": {
+    "factual_accuracy": 3.0243718353646236,
+    "concept_grounding": 2.098612595927524,
+    "completeness": 2.7613321165738736,
+    "relevance": 3.488576707907973,
+    "clarity": 4.997526899743279,
+    "fluency": 4.99982046325342
+  },
+  "00aDl": {
+    "factual_accuracy": 3.3880201979285016,
+    "concept_grounding": 3.8314314225438557,
+    "completeness": 4.878911378380151,
+    "relevance": 4.776829517809963,
+    "clarity": 4.99682418891085,
+    "fluency": 4.999664615447525
+  },
+  "0068B": {
+    "factual_accuracy": 2.221723229818404,
+    "concept_grounding": 2.537208888871598,
+    "completeness": 3.049326533531994,
+    "relevance": 2.1312927548843477,
+    "clarity": 4.9996646431526965,
+    "fluency": 4.999860170266022
+  },
+  "0088O": {
+    "factual_accuracy": 1.8560431083203615,
+    "concept_grounding": 2.1413428953360185,
+    "completeness": 3.1784514330740516,
+    "relevance": 2.7759674473391986,
+    "clarity": 4.999964642404226,
+    "fluency": 4.999841559631826
+  },
+  "00AoZ": {
+    "factual_accuracy": 2.235911275853753,
+    "concept_grounding": 2.3189417184325642,
+    "completeness": 4.48345123456257,
+    "relevance": 2.9594643236608213,
+    "clarity": 4.999703991606788,
+    "fluency": 4.9993736156111925
+  },
+  "00Yuf": {
+    "factual_accuracy": 2.3876622463077597,
+    "concept_grounding": 1.8540217426235461,
+    "completeness": 3.6953242033249585,
+    "relevance": 1.6718911672922858,
+    "clarity": 4.999933939108636,
+    "fluency": 4.99951213158859
+  },
+  "00zDb": {
+    "factual_accuracy": 2.003683008164011,
+    "concept_grounding": 2.3340053935942406,
+    "completeness": 2.6023051627200484,
+    "relevance": 2.302841788416853,
+    "clarity": 4.999704019309896,
+    "fluency": 4.999841556958232
+  },
+  "01GCT": {
+    "factual_accuracy": 3.227887703747852,
+    "concept_grounding": 1.8535516692597263,
+    "completeness": 3.6431221451237694,
+    "relevance": 3.906966048503007,
+    "clarity": 4.999860174328733,
+    "fluency": 4.999704038654246
+  },
+  "00KhM": {
+    "factual_accuracy": 3.2964424826956074,
+    "concept_grounding": 2.8391266530321215,
+    "completeness": 4.781513630689937,
+    "relevance": 4.966975512944989,
+    "clarity": 4.999998446427182,
+    "fluency": 4.9996200094490755
+  },
+  "00eWz": {
+    "factual_accuracy": 2.25947110204848,
+    "concept_grounding": 1.1278667049062139,
+    "completeness": 2.6274357289863643,
+    "relevance": 3.395151099130526,
+    "clarity": 4.999981074514248,
+    "fluency": 4.99997569913691
+  },
+  "00nCh": {
+    "factual_accuracy": 3.359772650309086,
+    "concept_grounding": 3.087186071287406,
+    "completeness": 4.94303590377445,
+    "relevance": 4.771562925646882,
+    "clarity": 4.999986992158889,
+    "fluency": 4.999664643950909
+  },
+  "009XT": {
+    "factual_accuracy": 2.5708057124225645,
+    "concept_grounding": 2.4699183016609676,
+    "completeness": 2.6937354786007948,
+    "relevance": 2.7005008876385874,
+    "clarity": 4.990281914321696,
+    "fluency": 4.9993733385415
+  },
+  "00Htd": {
+    "factual_accuracy": 1.9353135054731367,
+    "concept_grounding": 1.1682015708016324,
+    "completeness": 2.656053356270611,
+    "relevance": 2.069143996455943,
+    "clarity": 4.996404483137417,
+    "fluency": 4.999738796980687
+  },
+  "00Pgk": {
+    "factual_accuracy": 2.0891831830772487,
+    "concept_grounding": 1.2319692587486855,
+    "completeness": 2.974919008323368,
+    "relevance": 2.7708527065813224,
+    "clarity": 4.999972461477052,
+    "fluency": 4.999988521231025
+  },
+  "008tL": {
+    "factual_accuracy": 1.91764852538536,
+    "concept_grounding": 4.605369838168746,
+    "completeness": 4.305892141891413,
+    "relevance": 3.9242860550647602,
+    "clarity": 4.99919553782078,
+    "fluency": 4.999915186746076
+  },
+  "00Af3": {
+    "factual_accuracy": 2.886734540527727,
+    "concept_grounding": 2.514872096560923,
+    "completeness": 3.588836672849167,
+    "relevance": 3.4547532006727018,
+    "clarity": 4.997817109076042,
+    "fluency": 4.9999646425614745
+  },
+  "00AuR": {
+    "factual_accuracy": 2.80037703983836,
+    "concept_grounding": 4.1263344415010375,
+    "completeness": 3.4772899264796395,
+    "relevance": 3.7378442408641726,
+    "clarity": 4.9999339467925115,
+    "fluency": 4.999860174328733
+  },
+  "00FF5": {
+    "factual_accuracy": 2.1559096402750773,
+    "concept_grounding": 1.9791959895474056,
+    "completeness": 3.144152365386192,
+    "relevance": 2.8866644406541755,
+    "clarity": 4.9986744871014555,
+    "fluency": 4.999569432999465
+  },
+  "00TEQ": {
+    "factual_accuracy": 2.014472502936131,
+    "concept_grounding": 2.892077359551972,
+    "completeness": 3.332068360158513,
+    "relevance": 3.4550841264901337,
+    "clarity": 4.998967437081459,
+    "fluency": 4.998498711718898
+  },
+  "0279c": {
+    "factual_accuracy": 4.887007095756302,
+    "concept_grounding": 4.809229173763396,
+    "completeness": 4.974038111472107,
+    "relevance": 4.911353627846397,
+    "clarity": 4.999972462793704,
+    "fluency": 4.999948555576213
+  },
+  "00Bp0": {
+    "factual_accuracy": 2.859202067849415,
+    "concept_grounding": 3.1639881292943044,
+    "completeness": 3.8391123798589777,
+    "relevance": 3.079183936237584,
+    "clarity": 4.999948557066261,
+    "fluency": 4.99991518574226
+  },
+  "00EbJ": {
+    "factual_accuracy": 3.718411287190802,
+    "concept_grounding": 3.5098503311427223,
+    "completeness": 4.183094203485229,
+    "relevance": 4.937067724279924,
+    "clarity": 4.9999938558278725,
+    "fluency": 4.9999938558278725
+  },
+  "00SyL": {
+    "factual_accuracy": 2.800308274702345,
+    "concept_grounding": 1.2253635090114032,
+    "completeness": 3.0196696429916314,
+    "relevance": 3.075911272442517,
+    "clarity": 4.999891101540205,
+    "fluency": 4.999664638745857
+  },
+  "00ZEc": {
+    "factual_accuracy": 3.2118701678129424,
+    "concept_grounding": 2.6473537331805788,
+    "completeness": 3.7702327149079373,
+    "relevance": 2.5373101841402956,
+    "clarity": 4.999995214566774,
+    "fluency": 4.999959935493184
+  },
+  "00bou": {
+    "factual_accuracy": 2.746934159257695,
+    "concept_grounding": 1.8190043508501066,
+    "completeness": 4.919599215156116,
+    "relevance": 4.594060857793093,
+    "clarity": 4.99962000275321,
+    "fluency": 4.999941706776146
+  },
+  "01XlK": {
+    "factual_accuracy": 2.9778258117327154,
+    "concept_grounding": 2.405842523049356,
+    "completeness": 4.089707307454873,
+    "relevance": 4.607471367027394,
+    "clarity": 4.999978552560004,
+    "fluency": 4.999891100556572
+  },
+  "00OCQ": {
+    "factual_accuracy": 3.565704486382943,
+    "concept_grounding": 2.092576972707414,
+    "completeness": 3.3093132843139212,
+    "relevance": 3.7291852523434916,
+    "clarity": 4.9947788667611785,
+    "fluency": 4.999704021849207
+  },
+  "00RXz": {
+    "factual_accuracy": 2.5673776051607207,
+    "concept_grounding": 2.0517673258238918,
+    "completeness": 4.561687129956623,
+    "relevance": 2.660838396367445,
+    "clarity": 4.999915181251809,
+    "fluency": 4.999769472394977
+  },
+  "00hUl": {
+    "factual_accuracy": 1.3801524232017826,
+    "concept_grounding": 1.4810612709750257,
+    "completeness": 1.9690315555283786,
+    "relevance": 1.6224819540325286,
+    "clarity": 4.998498333236269,
+    "fluency": 4.999992110242615
+  },
+  "000tp": {
+    "factual_accuracy": 2.006361455995386,
+    "concept_grounding": 1.0391960547795664,
+    "completeness": 3.000000000000001,
+    "relevance": 1.8282441828317844,
+    "clarity": 4.998830432849761,
+    "fluency": 4.999738799788286
+  },
+  "00206": {
+    "factual_accuracy": 1.5257004489036583,
+    "concept_grounding": 1.2758555761973713,
+    "completeness": 2.788746624785622,
+    "relevance": 1.4931775145627908,
+    "clarity": 4.998073065122239,
+    "fluency": 4.999569419175063
+  },
+  "008nF": {
+    "factual_accuracy": 1.9384551192659853,
+    "concept_grounding": 1.097364984643291,
+    "completeness": 3.400718006962945,
+    "relevance": 1.9464754220247364,
+    "clarity": 4.904482372308819,
+    "fluency": 4.998674547607703
+  },
+  "0055Y": {
+    "factual_accuracy": 2.2118085889620627,
+    "concept_grounding": 1.0151464102363725,
+    "completeness": 2.77146523869599,
+    "relevance": 4.542953923535866,
+    "clarity": 4.999989870011893,
+    "fluency": 4.999796564214756
+  },
+  "005HF": {
+    "factual_accuracy": 1.9076957676204953,
+    "concept_grounding": 1.4922113762190332,
+    "completeness": 2.4859203342197347,
+    "relevance": 2.793785315734271,
+    "clarity": 4.999373653172857,
+    "fluency": 4.9997040381056115
+  },
+  "005YX": {
+    "factual_accuracy": 1.8717896598021857,
+    "concept_grounding": 1.1865905385928828,
+    "completeness": 1.8812250572019427,
+    "relevance": 1.4661681992269102,
+    "clarity": 4.998299233569329,
+    "fluency": 4.998674947351705
+  },
+  "00347": {
+    "factual_accuracy": 1.7398471592365143,
+    "concept_grounding": 1.860628005802039,
+    "completeness": 1.6744399495001474,
+    "relevance": 1.9426677121841063,
+    "clarity": 4.994779400323655,
+    "fluency": 4.999915186119451
+  },
+  "00IDw": {
+    "factual_accuracy": 1.2350727412277664,
+    "concept_grounding": 1.1884804082805334,
+    "completeness": 2.007758978611349,
+    "relevance": 1.3473914126196544,
+    "clarity": 4.9626482906087155,
+    "fluency": 4.999290104743573
+  },
+  "00In2": {
+    "factual_accuracy": 1.6318601128661225,
+    "concept_grounding": 1.6338800186638411,
+    "completeness": 3.2946751059577,
+    "relevance": 1.37602057190288,
+    "clarity": 4.998073129552866,
+    "fluency": 4.999373559568214
+  },
+  "000Zo": {
+    "factual_accuracy": 3.4762015575067604,
+    "concept_grounding": 4.977530077774869,
+    "completeness": 4.8399003877660185,
+    "relevance": 3.648019814207565,
+    "clarity": 4.9975237846357325,
+    "fluency": 4.999841545282642
+  },
+  "000hf": {
+    "factual_accuracy": 3.998248701978481,
+    "concept_grounding": 4.006732375880252,
+    "completeness": 4.992358398174463,
+    "relevance": 4.982751611450648,
+    "clarity": 4.999983298246516,
+    "fluency": 4.999954602144252
+  },
+  "001Wz": {
+    "factual_accuracy": 2.9394585938011515,
+    "concept_grounding": 4.884060031010923,
+    "completeness": 4.7354469804419415,
+    "relevance": 4.5065737729635975,
+    "clarity": 4.99999800519439,
+    "fluency": 4.999959935493184
+  }
+}
